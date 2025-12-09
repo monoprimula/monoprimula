@@ -1,19 +1,33 @@
 🌸✨ Merhaba, ben Esra!
 <img src="https://github.com/monoprimula/monoprimula/blob/main/pink-header.gif" width="100%" />
-🎀 Hakkımda
 
-Selçuk Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
-Cerebrum Tech’te edindiğim yapay zekâ ve görüntü işleme deneyimleri
-ile Teknofest’te otonom sistemler geliştirme sürecinde öğrendiğim teknik becerileri birleştirerek üretmeyi seviyorum.
+Sakin, düzenli ve üretmeyi seven bir geliştiriciyim.
+Kod yazarken en sevdiğim şey, bir fikrin yavaş yavaş şekillenip çalışır hâle geldiğini görmek.
+Arayüz tasarlamayı seviyorum, ama işin arka plandaki mantığını kurmak da beni aynı derecede mutlu ediyor.
+Bazen bir algoritma günlerce kafamı meşgul ediyor; bazen de tek bir satır kod bütün problemi çözüyor.
 
-Takım çalışmasına uyumlu, estetik bakış açısına sahip, detaylara önem veren bir geliştiriciyim. 
-React, TypeScript, PostgreSQL ve görüntü işleme alanlarında aktif olarak proje geliştiriyor, yeni teknolojileri keşfetmekten büyük keyif alıyorum.
+Kısacası: Ben yazılımı hem bir iş hem de kişisel bir ritüel gibi yaşıyorum.
 
-🌷 Teknolojilerim
-<p align="left"> <img src="https://img.shields.io/badge/React-ff9ecb?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-f5a3c7?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-fbc4e2?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-e7a0ff?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-ffc8dd?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20%2F%20OCR-ffb7e5?style=for-the-badge&logo=openai&logoColor=white" /> </p>
+⚡ Working with
+<p> <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" /> <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" /> <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" /> </p>
+✨ A little about me
 
-💖 GitHub İstatistikleri 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monoprimula&show_icons=true&theme=rose_pine&icon_color=ff9ecb&title_color=ff9ecb&text_color=f8e1ec" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monoprimula&layout=compact&theme=rose_pine&title_color=ff9ecb&text_color=f8e1ec" /> </p>
+Kod yazarken sadelikten yanayım.
 
-💌 İletişim
-<p align="left"> <a href="mailto:e-kck@hotmail.com.tr"><img src="https://img.shields.io/badge/Email-f7b6d8?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/esra-küçük-86586323b"><img src="https://img.shields.io/badge/LinkedIn-ff9ecb?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+Öğrenmeyi hiç bırakmam; AI, arayüz tasarımı ve veri yapılarıyla özellikle ilgileniyorum.
+
+Bir problemi çözmek benim için sadece teknik bir süreç değil—bir düşünme biçimi.
+
+Ürettiğim şeyin arkasında durmayı, anlamlı olmasını ve bir iz bırakmasını seviyorum.
+
+🌱 What I'm doing lately
+
+Daha düzenli, daha temiz ve daha sürdürülebilir projeler üretmeye odaklanıyorum.
+Yeni teknolojiler denerken bir yandan da kendi tarzımı oturtmaya çalışıyorum.
+Zaman zaman tasarım, zaman zaman backend… tam bir hibrit çalışma düzeni.
+
+☕ Let’s Connect
+<p> <a href="mailto:e-kck@hotmail.com.tr"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" /></a> <a href="https://www.linkedin.com/in/esra-küçük-86586323b"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" /></a> </p>
+🎧 Currently vibing with
+
+“Basit şeylerin güzel olabilmesi için karmaşık olmaları gerekmez.”

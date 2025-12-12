@@ -46,9 +46,9 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yapa
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monoprimula&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moopriumila&layout=compact&theme=radical)
   
 </div>
 
@@ -80,6 +80,6 @@ const esra = {
   
  "Kod yazmak sanat, problem çözmek tutkudur."
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=monoprimula&color=blueviolet&style=flat-square)
   
 </div>

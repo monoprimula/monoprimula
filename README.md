@@ -42,16 +42,6 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yapa
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monoprimula&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moopriumila&layout=compact&theme=radical)
-  
-</div>
-
 ## 🎯 İlgi Alanlarım
 
 ```javascript

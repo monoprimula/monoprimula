@@ -7,7 +7,7 @@
   
 </div>
 
- 🚀 Hakkımda
+## 🚀 Hakkımda
 
 Selçuk Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yapay zeka, mobil uygulama geliştirme ve web teknolojileri alanlarında deneyim sahibiyim. Teknofest yarışmalarından Yapay Zeka projelerine kadar geniş bir yelpazede çalışmalar yaptım.
 
@@ -16,9 +16,9 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yapa
 🌱 Computer Vision ve Machine Learning alanlarında kendimi geliştiriyorum  
 ⚡ Takım çalışmasına yatkın, problem çözme odaklı bir mühendis adayıyım 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,10 +68,16 @@ const esra = {
 };
 ```
 
-📫 Bana Ulaşın
+## 📫 Bana Ulaşın
 
 - 📧 Email: e-kck@hotmail.com.tr
 - 💼 LinkedIn: [Esra Küçük](https://www.linkedin.com/in/esra-küçük-86586323b)
 - 📍 Konum: Ankara, Türkiye
 
+---
 
+<div align="center">
+  
+ "Kod yazmak sanat, problem çözmek tutkudur."
+
+  
